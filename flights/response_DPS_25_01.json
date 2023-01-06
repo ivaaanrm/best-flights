@@ -1,0 +1,2319 @@
+{
+    "sessionToken": "CkBDaTRJQVJJcUNpZ0tKR0V5Tm1NNE5qSXdMV0UyTURRdE5HUTRNaTFoWlRsakxXVmhPVFl6T0RNNU9XWXlZUkFDIi0KAkVTEgVlcy1FUxoDRVVSIhcKBQoDQkNOEgUKA0RQUxoHCOcPEAEYGSgBMAEqJGEyNmM4NjIwLWE2MDQtNGQ4Mi1hZTljLWVhOTYzODM5OWYyYQ==-cells2",
+    "status": "RESULT_STATUS_INCOMPLETE",
+    "action": "RESULT_ACTION_REPLACED",
+    "content": {
+        "results": {
+            "itineraries": {
+                "9772-2301250705--31685,-32444-2-11109-2301261440": {
+                    "pricingOptions": [
+                        {
+                            "price": {
+                                "amount": "617860",
+                                "unit": "PRICE_UNIT_MILLI",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            },
+                            "agentIds": [
+                                "ctes"
+                            ],
+                            "items": [
+                                {
+                                    "price": {
+                                        "amount": "617860",
+                                        "unit": "PRICE_UNIT_MILLI",
+                                        "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                    },
+                                    "agentId": "ctes",
+                                    "deepLink": "https://skyscanner.pxf.io/c/2850210/1103265/13416?u=https%3A%2F%2Fwww.skyscanner.es%2Ftransport_deeplink%2F4.0%2FES%2Fes-ES%2FEUR%2Fctes%2F1%2F9772.11109.2023-01-25%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%257C-31685%257C8300%257C9772%257C2023-01-25T07%253A05%257C9451%257C2023-01-25T09%253A35%257C150%257C-%257C-%257C-%253Bflight%257C-32444%257C74%257C9451%257C2023-01-25T11%253A00%257C17075%257C2023-01-26T06%253A35%257C755%257C-%257C-%257C-%253Bflight%257C-32444%257C771%257C17075%257C2023-01-26T09%253A15%257C11109%257C2023-01-26T14%253A40%257C325%257C-%257C-%257C-%26carriers%3D-31685%252C-32444%26operators%3D-31685%253B-32444%253B-32444%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26fps_session_id%3Da26c8620-a604-4d82-ae9c-ea9638399f2a%26ticket_price%3D617.86%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26request_id%3D745148ef-1708-41e7-8da5-d452c542d7cd%26q_ids%3DH4sIAAAAAAAAAOOS4mJJLkktFmLmWOMjxczxNEyh4dHBeWxGTAqMAG7S0mocAAAA%257C-5664312750651288880%257C2%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2023-01-06T08%253A15%253A06%26transfer_protection%3Dprotected%26pqid%3Dtrue%26api_logo%3Dhttps%253A%252F%252Flogos.skyscnr.com%252Fimages%252Fpartners%252Fdefault.png%26api_pbs%3Dtrue%26associate_id%3DAFF_TRA_19354_00001%26app_id%3DG4IcGcdmVpjw77HZ3bCQanBnLBKNE76h2RC%25252Bq0zWNAx4vlSXpxjay009pDhvp9R8&associateid=AFF_TRA_19354_00001",
+                                    "fares": [
+                                        {
+                                            "segmentId": "9772-9451-2301250705-2301250935--31685",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "9451-17075-2301251100-2301260635--32444",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "17075-11109-2301260915-2301261440--32444",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "transferType": "TRANSFER_TYPE_PROTECTED_SELF_TRANSFER",
+                            "id": "Hpop3iNXiRE6"
+                        }
+                    ],
+                    "legIds": [
+                        "9772-2301250705--31685,-32444-2-11109-2301261440"
+                    ],
+                    "sustainabilityData": null
+                },
+                "9772-2301251015--32080-3-11109-2301261825": {
+                    "pricingOptions": [
+                        {
+                            "price": {
+                                "amount": "639000",
+                                "unit": "PRICE_UNIT_MILLI",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            },
+                            "agentIds": [
+                                "tfes"
+                            ],
+                            "items": [
+                                {
+                                    "price": {
+                                        "amount": "639000",
+                                        "unit": "PRICE_UNIT_MILLI",
+                                        "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                    },
+                                    "agentId": "tfes",
+                                    "deepLink": "https://skyscanner.pxf.io/c/2850210/1103265/13416?u=https%3A%2F%2Fwww.skyscanner.es%2Ftransport_deeplink%2F4.0%2FES%2Fes-ES%2FEUR%2Ftfes%2F1%2F9772.11109.2023-01-25%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%257C-32080%257C5751%257C9772%257C2023-01-25T10%253A15%257C14476%257C2023-01-25T11%253A55%257C100%257C-%257C-%257C-%253Bflight%257C-32080%257C5751%257C14476%257C2023-01-25T13%253A20%257C16292%257C2023-01-26T08%253A15%257C715%257C-%257C-%257C-%253Bflight%257C-32080%257C614%257C16292%257C2023-01-26T11%253A05%257C13311%257C2023-01-26T12%253A15%257C70%257C-%257C-%257C-%253Bflight%257C-32080%257C853%257C13311%257C2023-01-26T15%253A20%257C11109%257C2023-01-26T18%253A25%257C185%257C-%257C-%257C-%26carriers%3D-32080%26operators%3D-31876%253B-31876%253B-32080%253B-32080%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26fps_session_id%3Da26c8620-a604-4d82-ae9c-ea9638399f2a%26ticket_price%3D639.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26request_id%3D745148ef-1708-41e7-8da5-d452c542d7cd%26q_ids%3DH4sIAAAAAAAAAOOS4mIpSUstFmLmWOMjxczxNEyh4dHBeWxGTAqMAIHPRcgcAAAA%257C-3671550591658396581%257C2%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2023-01-06T08%253A15%253A05%26pqid%3Dfalse%26api_logo%3Dhttps%253A%252F%252Flogos.skyscnr.com%252Fimages%252Fpartners%252Fdefault.png%26api_pbs%3Dtrue%26associate_id%3DAFF_TRA_19354_00001%26app_id%3DG4IcGcdmVpjw77HZ3bCQanBnLBKNE76h2RC%25252Bq0zWNAx4vlSXpxjay009pDhvp9R8&associateid=AFF_TRA_19354_00001",
+                                    "fares": [
+                                        {
+                                            "segmentId": "9772-14476-2301251015-2301251155--32080",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "14476-16292-2301251320-2301260815--32080",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "16292-13311-2301261105-2301261215--32080",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "13311-11109-2301261520-2301261825--32080",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "transferType": "TRANSFER_TYPE_MANAGED",
+                            "id": "DtWWSCYIZZRG"
+                        }
+                    ],
+                    "legIds": [
+                        "9772-2301251015--32080-3-11109-2301261825"
+                    ],
+                    "sustainabilityData": null
+                },
+                "9772-2301251030--31685,-31939,-32211-3-11109-2301262035": {
+                    "pricingOptions": [
+                        {
+                            "price": {
+                                "amount": "564000",
+                                "unit": "PRICE_UNIT_MILLI",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            },
+                            "agentIds": [
+                                "tfes"
+                            ],
+                            "items": [
+                                {
+                                    "price": {
+                                        "amount": "564000",
+                                        "unit": "PRICE_UNIT_MILLI",
+                                        "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                    },
+                                    "agentId": "tfes",
+                                    "deepLink": "https://skyscanner.pxf.io/c/2850210/1103265/13416?u=https%3A%2F%2Fwww.skyscanner.es%2Ftransport_deeplink%2F4.0%2FES%2Fes-ES%2FEUR%2Ftfes%2F1%2F9772.11109.2023-01-25%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%257C-31685%257C6332%257C9772%257C2023-01-25T10%253A30%257C14476%257C2023-01-25T12%253A05%257C95%257C-%257C-%257C-%253Bflight%257C-31939%257C128%257C14476%257C2023-01-25T15%253A10%257C11089%257C2023-01-25T23%253A00%257C350%257C-%257C-%257C-%253Bflight%257C-31939%257C946%257C11089%257C2023-01-26T02%253A20%257C16292%257C2023-01-26T14%253A55%257C455%257C-%257C-%257C-%253Bflight%257C-32211%257C507%257C16292%257C2023-01-26T17%253A50%257C11109%257C2023-01-26T20%253A35%257C165%257C-%257C-%257C-%26carriers%3D-31685%252C-31939%252C-32211%26operators%3D-31685%253B-31939%253B-31939%253B-32211%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26fps_session_id%3Da26c8620-a604-4d82-ae9c-ea9638399f2a%26ticket_price%3D564.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26request_id%3D745148ef-1708-41e7-8da5-d452c542d7cd%26q_ids%3DH4sIAAAAAAAAAOOS4mIpSUstFmLmWOMjxczxNEyh4dHBeWxGTAqMAIHPRcgcAAAA%257C3455938071087028391%257C2%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2023-01-06T08%253A15%253A05%26transfer_protection%3Dprotected%26pqid%3Dfalse%26api_logo%3Dhttps%253A%252F%252Flogos.skyscnr.com%252Fimages%252Fpartners%252Fdefault.png%26api_pbs%3Dtrue%26associate_id%3DAFF_TRA_19354_00001%26app_id%3DG4IcGcdmVpjw77HZ3bCQanBnLBKNE76h2RC%25252Bq0zWNAx4vlSXpxjay009pDhvp9R8&associateid=AFF_TRA_19354_00001",
+                                    "fares": [
+                                        {
+                                            "segmentId": "9772-14476-2301251030-2301251205--31685",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "14476-11089-2301251510-2301252300--31939",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "11089-16292-2301260220-2301261455--31939",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "16292-11109-2301261750-2301262035--32211",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "transferType": "TRANSFER_TYPE_PROTECTED_SELF_TRANSFER",
+                            "id": "Po4rsK0a7NT6"
+                        }
+                    ],
+                    "legIds": [
+                        "9772-2301251030--31685,-31939,-32211-3-11109-2301262035"
+                    ],
+                    "sustainabilityData": null
+                },
+                "9772-2301251420--31915,-32090,-31876-3-11109-2301262050": {
+                    "pricingOptions": [
+                        {
+                            "price": {
+                                "amount": "610980",
+                                "unit": "PRICE_UNIT_MILLI",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            },
+                            "agentIds": [
+                                "gtes"
+                            ],
+                            "items": [
+                                {
+                                    "price": {
+                                        "amount": "610980",
+                                        "unit": "PRICE_UNIT_MILLI",
+                                        "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                    },
+                                    "agentId": "gtes",
+                                    "deepLink": "https://skyscanner.pxf.io/c/2850210/1103265/13416?u=https%3A%2F%2Fwww.skyscanner.es%2Ftransport_deeplink%2F4.0%2FES%2Fes-ES%2FEUR%2Fgtes%2F1%2F9772.11109.2023-01-25%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%257C-31915%257C7554%257C9772%257C2023-01-25T14%253A20%257C14476%257C2023-01-25T16%253A00%257C100%257C-%257C-%257C-%253Bflight%257C-32090%257C6903%257C14476%257C2023-01-25T18%253A30%257C11616%257C2023-01-25T19%253A45%257C75%257C-%257C-%257C-%253Bflight%257C-32090%257C778%257C11616%257C2023-01-25T21%253A55%257C16292%257C2023-01-26T17%253A00%257C725%257C-%257C-%257C-%253Bflight%257C-31876%257C946%257C16292%257C2023-01-26T18%253A05%257C11109%257C2023-01-26T20%253A50%257C165%257C-%257C-%257C-%26carriers%3D-31915%252C-32090%252C-31876%26operators%3D-31915%253B-32681%253B-32090%253B-31876%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26fps_session_id%3Da26c8620-a604-4d82-ae9c-ea9638399f2a%26ticket_price%3D610.98%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26request_id%3D745148ef-1708-41e7-8da5-d452c542d7cd%26q_ids%3DH4sIAAAAAAAAAOOS4mJJL0ktFmLmWOMjxczxNEyh4dHBeWxGTAqMADFM1AMcAAAA%257C5314649708226523730%257C2%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2023-01-06T08%253A14%253A59%26transfer_protection%3Dprotected%26pqid%3Dtrue%26api_logo%3Dhttps%253A%252F%252Flogos.skyscnr.com%252Fimages%252Fpartners%252Fdefault.png%26api_pbs%3Dtrue%26associate_id%3DAFF_TRA_19354_00001%26app_id%3DG4IcGcdmVpjw77HZ3bCQanBnLBKNE76h2RC%25252Bq0zWNAx4vlSXpxjay009pDhvp9R8&associateid=AFF_TRA_19354_00001",
+                                    "fares": [
+                                        {
+                                            "segmentId": "9772-14476-2301251420-2301251600--31915",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "14476-11616-2301251830-2301251945--32090",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "11616-16292-2301252155-2301261700--32090",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "16292-11109-2301261805-2301262050--31876",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "transferType": "TRANSFER_TYPE_PROTECTED_SELF_TRANSFER",
+                            "id": "7vXXunO1O3YM"
+                        }
+                    ],
+                    "legIds": [
+                        "9772-2301251420--31915,-32090,-31876-3-11109-2301262050"
+                    ],
+                    "sustainabilityData": null
+                },
+                "9772-2301251500--31939,-32080-2-11109-2301261825": {
+                    "pricingOptions": [
+                        {
+                            "price": {
+                                "amount": "777000",
+                                "unit": "PRICE_UNIT_MILLI",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            },
+                            "agentIds": [
+                                "ates"
+                            ],
+                            "items": [
+                                {
+                                    "price": {
+                                        "amount": "777000",
+                                        "unit": "PRICE_UNIT_MILLI",
+                                        "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                    },
+                                    "agentId": "ates",
+                                    "deepLink": "https://skyscanner.pxf.io/c/2850210/1103265/13416?u=https%3A%2F%2Fwww.skyscanner.es%2Ftransport_deeplink%2F4.0%2FES%2Fes-ES%2FEUR%2Fates%2F1%2F9772.11109.2023-01-25%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%257C-31939%257C146%257C9772%257C2023-01-25T15%253A00%257C11089%257C2023-01-25T23%253A15%257C375%257C-%257C-%257C-%253Bflight%257C-32080%257C161%257C11089%257C2023-01-26T01%253A30%257C13311%257C2023-01-26T13%253A55%257C445%257C-%257C-%257C-%253Bflight%257C-32080%257C853%257C13311%257C2023-01-26T15%253A20%257C11109%257C2023-01-26T18%253A25%257C185%257C-%257C-%257C-%26carriers%3D-31939%252C-32080%26operators%3D-31939%253B-32080%253B-32080%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26fps_session_id%3Da26c8620-a604-4d82-ae9c-ea9638399f2a%26ticket_price%3D777.00%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26request_id%3D745148ef-1708-41e7-8da5-d452c542d7cd%26q_ids%3DH4sIAAAAAAAAAOOS4mJJLEktFmLmWOMjxczxNEyh4dHBeWxGTAqMAGEe6bMcAAAA%257C115683566594679787%257C2%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2023-01-06T08%253A15%253A01%26pqid%3Dtrue%26api_logo%3Dhttps%253A%252F%252Flogos.skyscnr.com%252Fimages%252Fpartners%252Fdefault.png%26api_pbs%3Dtrue%26associate_id%3DAFF_TRA_19354_00001%26app_id%3DG4IcGcdmVpjw77HZ3bCQanBnLBKNE76h2RC%25252Bq0zWNAx4vlSXpxjay009pDhvp9R8&associateid=AFF_TRA_19354_00001",
+                                    "fares": [
+                                        {
+                                            "segmentId": "9772-11089-2301251500-2301252315--31939",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "11089-13311-2301260130-2301261355--32080",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "13311-11109-2301261520-2301261825--32080",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "transferType": "TRANSFER_TYPE_MANAGED",
+                            "id": "x5zOVqLoQjQe"
+                        }
+                    ],
+                    "legIds": [
+                        "9772-2301251500--31939,-32080-2-11109-2301261825"
+                    ],
+                    "sustainabilityData": null
+                },
+                "9772-2301251500--31939-1-11109-2301261730": {
+                    "pricingOptions": [
+                        {
+                            "price": {
+                                "amount": "687980",
+                                "unit": "PRICE_UNIT_MILLI",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            },
+                            "agentIds": [
+                                "ctes"
+                            ],
+                            "items": [
+                                {
+                                    "price": {
+                                        "amount": "687980",
+                                        "unit": "PRICE_UNIT_MILLI",
+                                        "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                    },
+                                    "agentId": "ctes",
+                                    "deepLink": "https://skyscanner.pxf.io/c/2850210/1103265/13416?u=https%3A%2F%2Fwww.skyscanner.es%2Ftransport_deeplink%2F4.0%2FES%2Fes-ES%2FEUR%2Fctes%2F1%2F9772.11109.2023-01-25%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%257C-31939%257C146%257C9772%257C2023-01-25T15%253A00%257C11089%257C2023-01-25T23%253A15%257C375%257C-%257C-%257C-%253Bflight%257C-31939%257C962%257C11089%257C2023-01-26T03%253A05%257C11109%257C2023-01-26T17%253A30%257C565%257C-%257C-%257C-%26carriers%3D-31939%26operators%3D-31939%253B-31939%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26fps_session_id%3Da26c8620-a604-4d82-ae9c-ea9638399f2a%26ticket_price%3D687.98%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26request_id%3D745148ef-1708-41e7-8da5-d452c542d7cd%26q_ids%3DH4sIAAAAAAAAAOOS4mJJLkktFmLmWOMjxczxNEyh4dHBeWxGTAqMAG7S0mocAAAA%257C-5906418021857642470%257C2%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2023-01-06T08%253A15%253A06%26pqid%3Dtrue%26api_logo%3Dhttps%253A%252F%252Flogos.skyscnr.com%252Fimages%252Fpartners%252Fdefault.png%26api_pbs%3Dtrue%26associate_id%3DAFF_TRA_19354_00001%26app_id%3DG4IcGcdmVpjw77HZ3bCQanBnLBKNE76h2RC%25252Bq0zWNAx4vlSXpxjay009pDhvp9R8&associateid=AFF_TRA_19354_00001",
+                                    "fares": [
+                                        {
+                                            "segmentId": "9772-11089-2301251500-2301252315--31939",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "11089-11109-2301260305-2301261730--31939",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "transferType": "TRANSFER_TYPE_MANAGED",
+                            "id": "4ZrvDHgJWqah"
+                        }
+                    ],
+                    "legIds": [
+                        "9772-2301251500--31939-1-11109-2301261730"
+                    ],
+                    "sustainabilityData": null
+                },
+                "9772-2301251500--32080-2-11109-2301261825": {
+                    "pricingOptions": [
+                        {
+                            "price": {
+                                "amount": "705980",
+                                "unit": "PRICE_UNIT_MILLI",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            },
+                            "agentIds": [
+                                "gtes"
+                            ],
+                            "items": [
+                                {
+                                    "price": {
+                                        "amount": "705980",
+                                        "unit": "PRICE_UNIT_MILLI",
+                                        "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                    },
+                                    "agentId": "gtes",
+                                    "deepLink": "https://skyscanner.pxf.io/c/2850210/1103265/13416?u=https%3A%2F%2Fwww.skyscanner.es%2Ftransport_deeplink%2F4.0%2FES%2Fes-ES%2FEUR%2Fgtes%2F1%2F9772.11109.2023-01-25%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%257C-32080%257C9246%257C9772%257C2023-01-25T15%253A00%257C11089%257C2023-01-25T23%253A15%257C375%257C-%257C-%257C-%253Bflight%257C-32080%257C161%257C11089%257C2023-01-26T01%253A30%257C13311%257C2023-01-26T13%253A55%257C445%257C-%257C-%257C-%253Bflight%257C-32080%257C853%257C13311%257C2023-01-26T15%253A20%257C11109%257C2023-01-26T18%253A25%257C185%257C-%257C-%257C-%26carriers%3D-32080%26operators%3D-31939%253B-32080%253B-32080%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26fps_session_id%3Da26c8620-a604-4d82-ae9c-ea9638399f2a%26ticket_price%3D705.98%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26request_id%3D745148ef-1708-41e7-8da5-d452c542d7cd%26q_ids%3DH4sIAAAAAAAAAOOS4mJJL0ktFmLmWOMjxczxNEyh4dHBeWxGTAqMADFM1AMcAAAA%257C4249258886138924323%257C2%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2023-01-06T08%253A14%253A59%26pqid%3Dtrue%26api_logo%3Dhttps%253A%252F%252Flogos.skyscnr.com%252Fimages%252Fpartners%252Fdefault.png%26api_pbs%3Dtrue%26associate_id%3DAFF_TRA_19354_00001%26app_id%3DG4IcGcdmVpjw77HZ3bCQanBnLBKNE76h2RC%25252Bq0zWNAx4vlSXpxjay009pDhvp9R8&associateid=AFF_TRA_19354_00001",
+                                    "fares": [
+                                        {
+                                            "segmentId": "9772-11089-2301251500-2301252315--32080",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "11089-13311-2301260130-2301261355--32080",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "13311-11109-2301261520-2301261825--32080",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "transferType": "TRANSFER_TYPE_MANAGED",
+                            "id": "bJxrTu6i-ko6"
+                        }
+                    ],
+                    "legIds": [
+                        "9772-2301251500--32080-2-11109-2301261825"
+                    ],
+                    "sustainabilityData": null
+                },
+                "9772-2301251500--32222-1-11109-2301261730": {
+                    "pricingOptions": [
+                        {
+                            "price": {
+                                "amount": "810730",
+                                "unit": "PRICE_UNIT_MILLI",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            },
+                            "agentIds": [
+                                "a582"
+                            ],
+                            "items": [
+                                {
+                                    "price": {
+                                        "amount": "810730",
+                                        "unit": "PRICE_UNIT_MILLI",
+                                        "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                    },
+                                    "agentId": "a582",
+                                    "deepLink": "https://skyscanner.pxf.io/c/2850210/1103265/13416?u=https%3A%2F%2Fwww.skyscanner.es%2Ftransport_deeplink%2F4.0%2FES%2Fes-ES%2FEUR%2Fa582%2F1%2F9772.11109.2023-01-25%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%257C-32222%257C2474%257C9772%257C2023-01-25T15%253A00%257C11089%257C2023-01-25T23%253A15%257C375%257CVNN07RM6%257CV%257C-%253Bflight%257C-32222%257C7968%257C11089%257C2023-01-26T03%253A05%257C11109%257C2023-01-26T17%253A30%257C565%257CVNN07RM6%257CV%257C-%26carriers%3D-32222%26operators%3D-31939%253B-31939%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26fps_session_id%3Da26c8620-a604-4d82-ae9c-ea9638399f2a%26ticket_price%3D810.73%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26request_id%3D745148ef-1708-41e7-8da5-d452c542d7cd%26q_ids%3DH4sIAAAAAAAAAOOS4mJJNLUwEmLmWOMjxczxNEyh4dHBeWxGTAqMAKybGNccAAAA%257C-8239383240567681600%257C2%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2023-01-06T08%253A14%253A58%26pqid%3Dtrue%26api_logo%3Dhttps%253A%252F%252Flogos.skyscnr.com%252Fimages%252Fpartners%252Fdefault.png%26api_pbs%3Dtrue%26associate_id%3DAFF_TRA_19354_00001%26app_id%3DG4IcGcdmVpjw77HZ3bCQanBnLBKNE76h2RC%25252Bq0zWNAx4vlSXpxjay009pDhvp9R8&associateid=AFF_TRA_19354_00001",
+                                    "fares": [
+                                        {
+                                            "segmentId": "9772-11089-2301251500-2301252315--32222",
+                                            "bookingCode": "V",
+                                            "fareBasisCode": "VNN07RM6"
+                                        },
+                                        {
+                                            "segmentId": "11089-11109-2301260305-2301261730--32222",
+                                            "bookingCode": "V",
+                                            "fareBasisCode": "VNN07RM6"
+                                        }
+                                    ]
+                                }
+                            ],
+                            "transferType": "TRANSFER_TYPE_MANAGED",
+                            "id": "P-bQW3T8Lnie"
+                        }
+                    ],
+                    "legIds": [
+                        "9772-2301251500--32222-1-11109-2301261730"
+                    ],
+                    "sustainabilityData": null
+                },
+                "9772-2301251510--32348-1-11109-2301261630": {
+                    "pricingOptions": [
+                        {
+                            "price": {
+                                "amount": "736110",
+                                "unit": "PRICE_UNIT_MILLI",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            },
+                            "agentIds": [
+                                "ctes"
+                            ],
+                            "items": [
+                                {
+                                    "price": {
+                                        "amount": "736110",
+                                        "unit": "PRICE_UNIT_MILLI",
+                                        "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                    },
+                                    "agentId": "ctes",
+                                    "deepLink": "https://skyscanner.pxf.io/c/2850210/1103265/13416?u=https%3A%2F%2Fwww.skyscanner.es%2Ftransport_deeplink%2F4.0%2FES%2Fes-ES%2FEUR%2Fctes%2F1%2F9772.11109.2023-01-25%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%257C-32348%257C256%257C9772%257C2023-01-25T15%253A10%257C11182%257C2023-01-26T00%253A35%257C385%257C-%257C-%257C-%253Bflight%257C-32348%257C368%257C11182%257C2023-01-26T03%253A25%257C11109%257C2023-01-26T16%253A30%257C545%257C-%257C-%257C-%26carriers%3D-32348%26operators%3D-32348%253B-32348%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26fps_session_id%3Da26c8620-a604-4d82-ae9c-ea9638399f2a%26ticket_price%3D736.11%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26request_id%3D745148ef-1708-41e7-8da5-d452c542d7cd%26q_ids%3DH4sIAAAAAAAAAOOS4mJJLkktFmLmWOMjxczxNEyh4dHBeWxGTAqMAG7S0mocAAAA%257C1087782487986269562%257C2%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2023-01-06T08%253A15%253A06%26pqid%3Dtrue%26api_logo%3Dhttps%253A%252F%252Flogos.skyscnr.com%252Fimages%252Fpartners%252Fdefault.png%26api_pbs%3Dtrue%26associate_id%3DAFF_TRA_19354_00001%26app_id%3DG4IcGcdmVpjw77HZ3bCQanBnLBKNE76h2RC%25252Bq0zWNAx4vlSXpxjay009pDhvp9R8&associateid=AFF_TRA_19354_00001",
+                                    "fares": [
+                                        {
+                                            "segmentId": "9772-11182-2301251510-2301260035--32348",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "11182-11109-2301260325-2301261630--32348",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "transferType": "TRANSFER_TYPE_MANAGED",
+                            "id": "4w7f15apKb4T"
+                        }
+                    ],
+                    "legIds": [
+                        "9772-2301251510--32348-1-11109-2301261630"
+                    ],
+                    "sustainabilityData": null
+                },
+                "9772-2301252025--32348-1-11109-2301262220": {
+                    "pricingOptions": [
+                        {
+                            "price": {
+                                "amount": "664010",
+                                "unit": "PRICE_UNIT_MILLI",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            },
+                            "agentIds": [
+                                "ctes"
+                            ],
+                            "items": [
+                                {
+                                    "price": {
+                                        "amount": "664010",
+                                        "unit": "PRICE_UNIT_MILLI",
+                                        "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                    },
+                                    "agentId": "ctes",
+                                    "deepLink": "https://skyscanner.pxf.io/c/2850210/1103265/13416?u=https%3A%2F%2Fwww.skyscanner.es%2Ftransport_deeplink%2F4.0%2FES%2Fes-ES%2FEUR%2Fctes%2F1%2F9772.11109.2023-01-25%2Fair%2Ftrava%2Fflights%3Fitinerary%3Dflight%257C-32348%257C188%257C9772%257C2023-01-25T20%253A25%257C11182%257C2023-01-26T06%253A00%257C395%257C-%257C-%257C-%253Bflight%257C-32348%257C398%257C11182%257C2023-01-26T09%253A05%257C11109%257C2023-01-26T22%253A20%257C555%257C-%257C-%257C-%26carriers%3D-32348%26operators%3D-32348%253B-32348%26passengers%3D1%26channel%3Ddataapi%26cabin_class%3Deconomy%26facilitated%3Dfalse%26fps_session_id%3Da26c8620-a604-4d82-ae9c-ea9638399f2a%26ticket_price%3D664.01%26is_npt%3Dfalse%26is_multipart%3Dfalse%26client_id%3Dskyscanner_b2b%26request_id%3D745148ef-1708-41e7-8da5-d452c542d7cd%26q_ids%3DH4sIAAAAAAAAAOOS4mJJLkktFmLmWOMjxczxNEyh4dHBeWxGTAqMAG7S0mocAAAA%257C-410297523464455210%257C2%26q_sources%3DJACQUARD%26commercial_filters%3Dfalse%26q_datetime_utc%3D2023-01-06T08%253A15%253A06%26pqid%3Dtrue%26api_logo%3Dhttps%253A%252F%252Flogos.skyscnr.com%252Fimages%252Fpartners%252Fdefault.png%26api_pbs%3Dtrue%26associate_id%3DAFF_TRA_19354_00001%26app_id%3DG4IcGcdmVpjw77HZ3bCQanBnLBKNE76h2RC%25252Bq0zWNAx4vlSXpxjay009pDhvp9R8&associateid=AFF_TRA_19354_00001",
+                                    "fares": [
+                                        {
+                                            "segmentId": "9772-11182-2301252025-2301260600--32348",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        },
+                                        {
+                                            "segmentId": "11182-11109-2301260905-2301262220--32348",
+                                            "bookingCode": "",
+                                            "fareBasisCode": ""
+                                        }
+                                    ]
+                                }
+                            ],
+                            "transferType": "TRANSFER_TYPE_MANAGED",
+                            "id": "JVK9HWMzf7ri"
+                        }
+                    ],
+                    "legIds": [
+                        "9772-2301252025--32348-1-11109-2301262220"
+                    ],
+                    "sustainabilityData": null
+                }
+            },
+            "legs": {
+                "9772-2301250705--31685,-32444-2-11109-2301261440": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 7,
+                        "minute": 5,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 14,
+                        "minute": 40,
+                        "second": 0
+                    },
+                    "durationInMinutes": 1475,
+                    "stopCount": 2,
+                    "marketingCarrierIds": [
+                        "-31685",
+                        "-32444"
+                    ],
+                    "operatingCarrierIds": [
+                        "-31685",
+                        "-32444"
+                    ],
+                    "segmentIds": [
+                        "9772-9451-2301250705-2301250935--31685",
+                        "9451-17075-2301251100-2301260635--32444",
+                        "17075-11109-2301260915-2301261440--32444"
+                    ]
+                },
+                "9772-2301251015--32080-3-11109-2301261825": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 10,
+                        "minute": 15,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 18,
+                        "minute": 25,
+                        "second": 0
+                    },
+                    "durationInMinutes": 1510,
+                    "stopCount": 3,
+                    "marketingCarrierIds": [
+                        "-32080"
+                    ],
+                    "operatingCarrierIds": [
+                        "-31876",
+                        "-32080"
+                    ],
+                    "segmentIds": [
+                        "9772-14476-2301251015-2301251155--32080",
+                        "14476-16292-2301251320-2301260815--32080",
+                        "16292-13311-2301261105-2301261215--32080",
+                        "13311-11109-2301261520-2301261825--32080"
+                    ]
+                },
+                "9772-2301251030--31685,-31939,-32211-3-11109-2301262035": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 10,
+                        "minute": 30,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 20,
+                        "minute": 35,
+                        "second": 0
+                    },
+                    "durationInMinutes": 1625,
+                    "stopCount": 3,
+                    "marketingCarrierIds": [
+                        "-31685",
+                        "-31939",
+                        "-32211"
+                    ],
+                    "operatingCarrierIds": [
+                        "-31685",
+                        "-31939",
+                        "-32211"
+                    ],
+                    "segmentIds": [
+                        "9772-14476-2301251030-2301251205--31685",
+                        "14476-11089-2301251510-2301252300--31939",
+                        "11089-16292-2301260220-2301261455--31939",
+                        "16292-11109-2301261750-2301262035--32211"
+                    ]
+                },
+                "9772-2301251420--31915,-32090,-31876-3-11109-2301262050": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 14,
+                        "minute": 20,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 20,
+                        "minute": 50,
+                        "second": 0
+                    },
+                    "durationInMinutes": 1410,
+                    "stopCount": 3,
+                    "marketingCarrierIds": [
+                        "-31915",
+                        "-32090",
+                        "-31876"
+                    ],
+                    "operatingCarrierIds": [
+                        "-31915",
+                        "-32681",
+                        "-32090",
+                        "-31876"
+                    ],
+                    "segmentIds": [
+                        "9772-14476-2301251420-2301251600--31915",
+                        "14476-11616-2301251830-2301251945--32090",
+                        "11616-16292-2301252155-2301261700--32090",
+                        "16292-11109-2301261805-2301262050--31876"
+                    ]
+                },
+                "9772-2301251500--31939,-32080-2-11109-2301261825": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 15,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 18,
+                        "minute": 25,
+                        "second": 0
+                    },
+                    "durationInMinutes": 1225,
+                    "stopCount": 2,
+                    "marketingCarrierIds": [
+                        "-31939",
+                        "-32080"
+                    ],
+                    "operatingCarrierIds": [
+                        "-31939",
+                        "-32080"
+                    ],
+                    "segmentIds": [
+                        "9772-11089-2301251500-2301252315--31939",
+                        "11089-13311-2301260130-2301261355--32080",
+                        "13311-11109-2301261520-2301261825--32080"
+                    ]
+                },
+                "9772-2301251500--31939-1-11109-2301261730": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 15,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 17,
+                        "minute": 30,
+                        "second": 0
+                    },
+                    "durationInMinutes": 1170,
+                    "stopCount": 1,
+                    "marketingCarrierIds": [
+                        "-31939"
+                    ],
+                    "operatingCarrierIds": [
+                        "-31939"
+                    ],
+                    "segmentIds": [
+                        "9772-11089-2301251500-2301252315--31939",
+                        "11089-11109-2301260305-2301261730--31939"
+                    ]
+                },
+                "9772-2301251500--32080-2-11109-2301261825": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 15,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 18,
+                        "minute": 25,
+                        "second": 0
+                    },
+                    "durationInMinutes": 1225,
+                    "stopCount": 2,
+                    "marketingCarrierIds": [
+                        "-32080"
+                    ],
+                    "operatingCarrierIds": [
+                        "-31939",
+                        "-32080"
+                    ],
+                    "segmentIds": [
+                        "9772-11089-2301251500-2301252315--32080",
+                        "11089-13311-2301260130-2301261355--32080",
+                        "13311-11109-2301261520-2301261825--32080"
+                    ]
+                },
+                "9772-2301251500--32222-1-11109-2301261730": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 15,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 17,
+                        "minute": 30,
+                        "second": 0
+                    },
+                    "durationInMinutes": 1170,
+                    "stopCount": 1,
+                    "marketingCarrierIds": [
+                        "-32222"
+                    ],
+                    "operatingCarrierIds": [
+                        "-31939"
+                    ],
+                    "segmentIds": [
+                        "9772-11089-2301251500-2301252315--32222",
+                        "11089-11109-2301260305-2301261730--32222"
+                    ]
+                },
+                "9772-2301251510--32348-1-11109-2301261630": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 15,
+                        "minute": 10,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 16,
+                        "minute": 30,
+                        "second": 0
+                    },
+                    "durationInMinutes": 1100,
+                    "stopCount": 1,
+                    "marketingCarrierIds": [
+                        "-32348"
+                    ],
+                    "operatingCarrierIds": [
+                        "-32348"
+                    ],
+                    "segmentIds": [
+                        "9772-11182-2301251510-2301260035--32348",
+                        "11182-11109-2301260325-2301261630--32348"
+                    ]
+                },
+                "9772-2301252025--32348-1-11109-2301262220": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 20,
+                        "minute": 25,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 22,
+                        "minute": 20,
+                        "second": 0
+                    },
+                    "durationInMinutes": 1135,
+                    "stopCount": 1,
+                    "marketingCarrierIds": [
+                        "-32348"
+                    ],
+                    "operatingCarrierIds": [
+                        "-32348"
+                    ],
+                    "segmentIds": [
+                        "9772-11182-2301252025-2301260600--32348",
+                        "11182-11109-2301260905-2301262220--32348"
+                    ]
+                }
+            },
+            "segments": {
+                "11089-11109-2301260305-2301261730--31939": {
+                    "originPlaceId": "95673852",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 3,
+                        "minute": 5,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 17,
+                        "minute": 30,
+                        "second": 0
+                    },
+                    "durationInMinutes": 565,
+                    "marketingFlightNumber": "962",
+                    "marketingCarrierId": "-31939",
+                    "operatingCarrierId": "-31939"
+                },
+                "11089-11109-2301260305-2301261730--32222": {
+                    "originPlaceId": "95673852",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 3,
+                        "minute": 5,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 17,
+                        "minute": 30,
+                        "second": 0
+                    },
+                    "durationInMinutes": 565,
+                    "marketingFlightNumber": "7968",
+                    "marketingCarrierId": "-32222",
+                    "operatingCarrierId": "-31939"
+                },
+                "11089-13311-2301260130-2301261355--32080": {
+                    "originPlaceId": "95673852",
+                    "destinationPlaceId": "95673456",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 1,
+                        "minute": 30,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 13,
+                        "minute": 55,
+                        "second": 0
+                    },
+                    "durationInMinutes": 445,
+                    "marketingFlightNumber": "161",
+                    "marketingCarrierId": "-32080",
+                    "operatingCarrierId": "-32080"
+                },
+                "11089-16292-2301260220-2301261455--31939": {
+                    "originPlaceId": "95673852",
+                    "destinationPlaceId": "95673375",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 2,
+                        "minute": 20,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 14,
+                        "minute": 55,
+                        "second": 0
+                    },
+                    "durationInMinutes": 455,
+                    "marketingFlightNumber": "946",
+                    "marketingCarrierId": "-31939",
+                    "operatingCarrierId": "-31939"
+                },
+                "11182-11109-2301260325-2301261630--32348": {
+                    "originPlaceId": "95673506",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 3,
+                        "minute": 25,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 16,
+                        "minute": 30,
+                        "second": 0
+                    },
+                    "durationInMinutes": 545,
+                    "marketingFlightNumber": "368",
+                    "marketingCarrierId": "-32348",
+                    "operatingCarrierId": "-32348"
+                },
+                "11182-11109-2301260905-2301262220--32348": {
+                    "originPlaceId": "95673506",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 9,
+                        "minute": 5,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 22,
+                        "minute": 20,
+                        "second": 0
+                    },
+                    "durationInMinutes": 555,
+                    "marketingFlightNumber": "398",
+                    "marketingCarrierId": "-32348",
+                    "operatingCarrierId": "-32348"
+                },
+                "11616-16292-2301252155-2301261700--32090": {
+                    "originPlaceId": "95673652",
+                    "destinationPlaceId": "95673375",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 21,
+                        "minute": 55,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 17,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "durationInMinutes": 725,
+                    "marketingFlightNumber": "778",
+                    "marketingCarrierId": "-32090",
+                    "operatingCarrierId": "-32090"
+                },
+                "13311-11109-2301261520-2301261825--32080": {
+                    "originPlaceId": "95673456",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 15,
+                        "minute": 20,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 18,
+                        "minute": 25,
+                        "second": 0
+                    },
+                    "durationInMinutes": 185,
+                    "marketingFlightNumber": "853",
+                    "marketingCarrierId": "-32080",
+                    "operatingCarrierId": "-32080"
+                },
+                "14476-11089-2301251510-2301252300--31939": {
+                    "originPlaceId": "95565070",
+                    "destinationPlaceId": "95673852",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 15,
+                        "minute": 10,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 23,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "durationInMinutes": 350,
+                    "marketingFlightNumber": "128",
+                    "marketingCarrierId": "-31939",
+                    "operatingCarrierId": "-31939"
+                },
+                "14476-11616-2301251830-2301251945--32090": {
+                    "originPlaceId": "95565070",
+                    "destinationPlaceId": "95673652",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 18,
+                        "minute": 30,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 19,
+                        "minute": 45,
+                        "second": 0
+                    },
+                    "durationInMinutes": 75,
+                    "marketingFlightNumber": "6903",
+                    "marketingCarrierId": "-32090",
+                    "operatingCarrierId": "-32681"
+                },
+                "14476-16292-2301251320-2301260815--32080": {
+                    "originPlaceId": "95565070",
+                    "destinationPlaceId": "95673375",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 13,
+                        "minute": 20,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 8,
+                        "minute": 15,
+                        "second": 0
+                    },
+                    "durationInMinutes": 715,
+                    "marketingFlightNumber": "5751",
+                    "marketingCarrierId": "-32080",
+                    "operatingCarrierId": "-31876"
+                },
+                "16292-11109-2301261750-2301262035--32211": {
+                    "originPlaceId": "95673375",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 17,
+                        "minute": 50,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 20,
+                        "minute": 35,
+                        "second": 0
+                    },
+                    "durationInMinutes": 165,
+                    "marketingFlightNumber": "507",
+                    "marketingCarrierId": "-32211",
+                    "operatingCarrierId": "-32211"
+                },
+                "16292-11109-2301261805-2301262050--31876": {
+                    "originPlaceId": "95673375",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 18,
+                        "minute": 5,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 20,
+                        "minute": 50,
+                        "second": 0
+                    },
+                    "durationInMinutes": 165,
+                    "marketingFlightNumber": "946",
+                    "marketingCarrierId": "-31876",
+                    "operatingCarrierId": "-31876"
+                },
+                "16292-13311-2301261105-2301261215--32080": {
+                    "originPlaceId": "95673375",
+                    "destinationPlaceId": "95673456",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 11,
+                        "minute": 5,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 12,
+                        "minute": 15,
+                        "second": 0
+                    },
+                    "durationInMinutes": 70,
+                    "marketingFlightNumber": "614",
+                    "marketingCarrierId": "-32080",
+                    "operatingCarrierId": "-32080"
+                },
+                "17075-11109-2301260915-2301261440--32444": {
+                    "originPlaceId": "128667054",
+                    "destinationPlaceId": "95673809",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 9,
+                        "minute": 15,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 14,
+                        "minute": 40,
+                        "second": 0
+                    },
+                    "durationInMinutes": 325,
+                    "marketingFlightNumber": "771",
+                    "marketingCarrierId": "-32444",
+                    "operatingCarrierId": "-32444"
+                },
+                "9451-17075-2301251100-2301260635--32444": {
+                    "originPlaceId": "95565044",
+                    "destinationPlaceId": "128667054",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 11,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 6,
+                        "minute": 35,
+                        "second": 0
+                    },
+                    "durationInMinutes": 755,
+                    "marketingFlightNumber": "74",
+                    "marketingCarrierId": "-32444",
+                    "operatingCarrierId": "-32444"
+                },
+                "9772-11089-2301251500-2301252315--31939": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95673852",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 15,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 23,
+                        "minute": 15,
+                        "second": 0
+                    },
+                    "durationInMinutes": 375,
+                    "marketingFlightNumber": "146",
+                    "marketingCarrierId": "-31939",
+                    "operatingCarrierId": "-31939"
+                },
+                "9772-11089-2301251500-2301252315--32080": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95673852",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 15,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 23,
+                        "minute": 15,
+                        "second": 0
+                    },
+                    "durationInMinutes": 375,
+                    "marketingFlightNumber": "9246",
+                    "marketingCarrierId": "-32080",
+                    "operatingCarrierId": "-31939"
+                },
+                "9772-11089-2301251500-2301252315--32222": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95673852",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 15,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 23,
+                        "minute": 15,
+                        "second": 0
+                    },
+                    "durationInMinutes": 375,
+                    "marketingFlightNumber": "2474",
+                    "marketingCarrierId": "-32222",
+                    "operatingCarrierId": "-31939"
+                },
+                "9772-11182-2301251510-2301260035--32348": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95673506",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 15,
+                        "minute": 10,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 0,
+                        "minute": 35,
+                        "second": 0
+                    },
+                    "durationInMinutes": 385,
+                    "marketingFlightNumber": "256",
+                    "marketingCarrierId": "-32348",
+                    "operatingCarrierId": "-32348"
+                },
+                "9772-11182-2301252025-2301260600--32348": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95673506",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 20,
+                        "minute": 25,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 26,
+                        "hour": 6,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "durationInMinutes": 395,
+                    "marketingFlightNumber": "188",
+                    "marketingCarrierId": "-32348",
+                    "operatingCarrierId": "-32348"
+                },
+                "9772-14476-2301251015-2301251155--32080": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95565070",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 10,
+                        "minute": 15,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 11,
+                        "minute": 55,
+                        "second": 0
+                    },
+                    "durationInMinutes": 100,
+                    "marketingFlightNumber": "5751",
+                    "marketingCarrierId": "-32080",
+                    "operatingCarrierId": "-31876"
+                },
+                "9772-14476-2301251030-2301251205--31685": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95565070",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 10,
+                        "minute": 30,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 12,
+                        "minute": 5,
+                        "second": 0
+                    },
+                    "durationInMinutes": 95,
+                    "marketingFlightNumber": "6332",
+                    "marketingCarrierId": "-31685",
+                    "operatingCarrierId": "-31685"
+                },
+                "9772-14476-2301251420-2301251600--31915": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95565070",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 14,
+                        "minute": 20,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 16,
+                        "minute": 0,
+                        "second": 0
+                    },
+                    "durationInMinutes": 100,
+                    "marketingFlightNumber": "7554",
+                    "marketingCarrierId": "-31915",
+                    "operatingCarrierId": "-31915"
+                },
+                "9772-9451-2301250705-2301250935--31685": {
+                    "originPlaceId": "95565085",
+                    "destinationPlaceId": "95565044",
+                    "departureDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 7,
+                        "minute": 5,
+                        "second": 0
+                    },
+                    "arrivalDateTime": {
+                        "year": 2023,
+                        "month": 1,
+                        "day": 25,
+                        "hour": 9,
+                        "minute": 35,
+                        "second": 0
+                    },
+                    "durationInMinutes": 150,
+                    "marketingFlightNumber": "8300",
+                    "marketingCarrierId": "-31685",
+                    "operatingCarrierId": "-31685"
+                }
+            },
+            "places": {
+                "128667054": {
+                    "entityId": "128667054",
+                    "parentId": "27547236",
+                    "name": "Taipei Taiwa\u0301n Taoyuan",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "TPE",
+                    "coordinates": null
+                },
+                "27536561": {
+                    "entityId": "27536561",
+                    "parentId": "29475378",
+                    "name": "\u00c1msterdam",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "AMS",
+                    "coordinates": null
+                },
+                "27540785": {
+                    "entityId": "27540785",
+                    "parentId": "29475214",
+                    "name": "Doha",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "DOH",
+                    "coordinates": null
+                },
+                "27540795": {
+                    "entityId": "27540795",
+                    "parentId": "29475321",
+                    "name": "Denpasar",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "DPS",
+                    "coordinates": null
+                },
+                "27540839": {
+                    "entityId": "27540839",
+                    "parentId": "29475216",
+                    "name": "Dub\u00e1i",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "DXB",
+                    "coordinates": null
+                },
+                "27541706": {
+                    "entityId": "27541706",
+                    "parentId": "29475381",
+                    "name": "Fr\u00e1ncfort del Meno",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "FRA",
+                    "coordinates": null
+                },
+                "27543923": {
+                    "entityId": "27543923",
+                    "parentId": "29475325",
+                    "name": "Kuala Lumpur",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "KUL",
+                    "coordinates": null
+                },
+                "27544068": {
+                    "entityId": "27544068",
+                    "parentId": "29475393",
+                    "name": "Mil\u00e1n",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "MIL",
+                    "coordinates": null
+                },
+                "27546111": {
+                    "entityId": "27546111",
+                    "parentId": "29475332",
+                    "name": "Singapur",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "SIN",
+                    "coordinates": null
+                },
+                "27547236": {
+                    "entityId": "27547236",
+                    "parentId": "29475323",
+                    "name": "Taip\u00e9i",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "TPE",
+                    "coordinates": null
+                },
+                "27548283": {
+                    "entityId": "27548283",
+                    "parentId": "29475369",
+                    "name": "Barcelona",
+                    "type": "PLACE_TYPE_CITY",
+                    "iata": "BCN",
+                    "coordinates": null
+                },
+                "29475214": {
+                    "entityId": "29475214",
+                    "parentId": "",
+                    "name": "Catar",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "29475216": {
+                    "entityId": "29475216",
+                    "parentId": "",
+                    "name": "Emiratos \u00c1rabes Unidos",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "29475321": {
+                    "entityId": "29475321",
+                    "parentId": "",
+                    "name": "Indonesia",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "29475323": {
+                    "entityId": "29475323",
+                    "parentId": "",
+                    "name": "Taiw\u00e1n",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "29475325": {
+                    "entityId": "29475325",
+                    "parentId": "",
+                    "name": "Malasia",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "29475332": {
+                    "entityId": "29475332",
+                    "parentId": "",
+                    "name": "Singapur",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "29475369": {
+                    "entityId": "29475369",
+                    "parentId": "",
+                    "name": "Espa\u00f1a",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "29475378": {
+                    "entityId": "29475378",
+                    "parentId": "",
+                    "name": "Pa\u00edses Bajos",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "29475381": {
+                    "entityId": "29475381",
+                    "parentId": "",
+                    "name": "Alemania",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "29475393": {
+                    "entityId": "29475393",
+                    "parentId": "",
+                    "name": "Italia",
+                    "type": "PLACE_TYPE_COUNTRY",
+                    "iata": "",
+                    "coordinates": null
+                },
+                "95565044": {
+                    "entityId": "95565044",
+                    "parentId": "27536561",
+                    "name": "A\u0301msterdam Schiphol",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "AMS",
+                    "coordinates": null
+                },
+                "95565070": {
+                    "entityId": "95565070",
+                    "parentId": "27544068",
+                    "name": "Mila\u0301n Malpensa",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "MXP",
+                    "coordinates": null
+                },
+                "95565085": {
+                    "entityId": "95565085",
+                    "parentId": "27548283",
+                    "name": "Barcelona",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "BCN",
+                    "coordinates": null
+                },
+                "95673375": {
+                    "entityId": "95673375",
+                    "parentId": "27546111",
+                    "name": "Singapur Changi",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "SIN",
+                    "coordinates": null
+                },
+                "95673456": {
+                    "entityId": "95673456",
+                    "parentId": "27543923",
+                    "name": "Kuala Lumpur Internacional",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "KUL",
+                    "coordinates": null
+                },
+                "95673506": {
+                    "entityId": "95673506",
+                    "parentId": "27540839",
+                    "name": "Dubai",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "DXB",
+                    "coordinates": null
+                },
+                "95673652": {
+                    "entityId": "95673652",
+                    "parentId": "27541706",
+                    "name": "Frankfurt",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "FRA",
+                    "coordinates": null
+                },
+                "95673809": {
+                    "entityId": "95673809",
+                    "parentId": "27540795",
+                    "name": "Bali (Denpasar)",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "DPS",
+                    "coordinates": null
+                },
+                "95673852": {
+                    "entityId": "95673852",
+                    "parentId": "27540785",
+                    "name": "Hamad Internacional",
+                    "type": "PLACE_TYPE_AIRPORT",
+                    "iata": "DOH",
+                    "coordinates": null
+                }
+            },
+            "carriers": {
+                "-31685": {
+                    "name": "Vueling Airlines",
+                    "allianceId": "",
+                    "imageUrl": "https://logos.skyscnr.com/images/airlines/07.png",
+                    "iata": "VY"
+                },
+                "-31876": {
+                    "name": "Singapore Airlines",
+                    "allianceId": "-31999",
+                    "imageUrl": "https://logos.skyscnr.com/images/airlines/SQ.png",
+                    "iata": "SQ"
+                },
+                "-31915": {
+                    "name": "Ryanair",
+                    "allianceId": "",
+                    "imageUrl": "",
+                    "iata": "FR"
+                },
+                "-31939": {
+                    "name": "Qatar Airways",
+                    "allianceId": "-32000",
+                    "imageUrl": "https://logos.skyscnr.com/images/airlines/QR.png",
+                    "iata": "QR"
+                },
+                "-32080": {
+                    "name": "Malaysia Airlines",
+                    "allianceId": "-32000",
+                    "imageUrl": "https://logos.skyscnr.com/images/airlines/MH.png",
+                    "iata": "MH"
+                },
+                "-32090": {
+                    "name": "Lufthansa",
+                    "allianceId": "-31999",
+                    "imageUrl": "https://logos.skyscnr.com/images/airlines/LH.png",
+                    "iata": "LH"
+                },
+                "-32211": {
+                    "name": "Indonesia AirAsia",
+                    "allianceId": "",
+                    "imageUrl": "https://logos.skyscnr.com/images/airlines/QZ.png",
+                    "iata": "QZ"
+                },
+                "-32222": {
+                    "name": "Iberia",
+                    "allianceId": "-32000",
+                    "imageUrl": "https://logos.skyscnr.com/images/airlines/IB.png",
+                    "iata": "IB"
+                },
+                "-32348": {
+                    "name": "Emirates",
+                    "allianceId": "",
+                    "imageUrl": "https://logos.skyscnr.com/images/airlines/EK.png",
+                    "iata": "EK"
+                },
+                "-32444": {
+                    "name": "China Airlines",
+                    "allianceId": "-31998",
+                    "imageUrl": "https://logos.skyscnr.com/images/airlines/CI.png",
+                    "iata": "CI"
+                },
+                "-32681": {
+                    "name": "Air Dolomiti",
+                    "allianceId": "",
+                    "imageUrl": "https://logos.skyscnr.com/images/airlines/EN.png",
+                    "iata": "EN"
+                }
+            },
+            "agents": {
+                "a582": {
+                    "name": "Rumbo",
+                    "type": "AGENT_TYPE_TRAVEL_AGENT",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/a582.png",
+                    "feedbackCount": 1878,
+                    "rating": 3.62,
+                    "ratingBreakdown": {
+                        "customerService": 5,
+                        "reliablePrices": 3.390932,
+                        "clearExtraFees": 4.472892,
+                        "easeOfBooking": 4.008204,
+                        "other": 2.607204
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "airf": {
+                    "name": "Air France",
+                    "type": "AGENT_TYPE_AIRLINE",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/airf.png",
+                    "feedbackCount": 453,
+                    "rating": 4.9,
+                    "ratingBreakdown": {
+                        "customerService": 5,
+                        "reliablePrices": 4.900244,
+                        "clearExtraFees": 4.968076,
+                        "easeOfBooking": 4.916204,
+                        "other": 4.804476
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "ates": {
+                    "name": "BudgetAir.es",
+                    "type": "AGENT_TYPE_TRAVEL_AGENT",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/ates.png",
+                    "feedbackCount": 3734,
+                    "rating": 3.92,
+                    "ratingBreakdown": {
+                        "customerService": 5,
+                        "reliablePrices": 3.937124,
+                        "clearExtraFees": 4.457964,
+                        "easeOfBooking": 4.297476,
+                        "other": 2.974184
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "bces": {
+                    "name": "Booking.com",
+                    "type": "AGENT_TYPE_TRAVEL_AGENT",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/bces.png",
+                    "feedbackCount": 8631,
+                    "rating": 4.51,
+                    "ratingBreakdown": {
+                        "customerService": 5,
+                        "reliablePrices": 4.531616,
+                        "clearExtraFees": 4.713424,
+                        "easeOfBooking": 4.734996,
+                        "other": 4.045516
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "ctes": {
+                    "name": "Trip.com",
+                    "type": "AGENT_TYPE_TRAVEL_AGENT",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/ctes.png",
+                    "feedbackCount": 18611,
+                    "rating": 3.99,
+                    "ratingBreakdown": {
+                        "customerService": 5,
+                        "reliablePrices": 3.861056,
+                        "clearExtraFees": 4.5493,
+                        "easeOfBooking": 4.410488,
+                        "other": 3.126344
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "edes": {
+                    "name": "eDreams",
+                    "type": "AGENT_TYPE_TRAVEL_AGENT",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/edes.png",
+                    "feedbackCount": 15664,
+                    "rating": 3.69,
+                    "ratingBreakdown": {
+                        "customerService": 5,
+                        "reliablePrices": 3.787748,
+                        "clearExtraFees": 4.292464,
+                        "easeOfBooking": 3.942568,
+                        "other": 2.721024
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "emir": {
+                    "name": "Emirates",
+                    "type": "AGENT_TYPE_AIRLINE",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/emir.png",
+                    "feedbackCount": 133,
+                    "rating": 4.27,
+                    "ratingBreakdown": {
+                        "customerService": 5,
+                        "reliablePrices": 4.134032,
+                        "clearExtraFees": 4.733548,
+                        "easeOfBooking": 4.600324,
+                        "other": 3.601128
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "etih": {
+                    "name": "Etihad Airways",
+                    "type": "AGENT_TYPE_AIRLINE",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/etih.png",
+                    "feedbackCount": 3062,
+                    "rating": 4.6,
+                    "ratingBreakdown": {
+                        "customerService": 5,
+                        "reliablePrices": 4.657272,
+                        "clearExtraFees": 4.841536,
+                        "easeOfBooking": 4.719924,
+                        "other": 4.198464
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "gtes": {
+                    "name": "GotoGate",
+                    "type": "AGENT_TYPE_TRAVEL_AGENT",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/gtes.png",
+                    "feedbackCount": 2669,
+                    "rating": 3.36,
+                    "ratingBreakdown": {
+                        "customerService": 4.904624,
+                        "reliablePrices": 3.484536,
+                        "clearExtraFees": 3.97938,
+                        "easeOfBooking": 4.09278,
+                        "other": 1.958756
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "klm1": {
+                    "name": "KLM",
+                    "type": "AGENT_TYPE_AIRLINE",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/klm1.png",
+                    "feedbackCount": 458,
+                    "rating": 4.36,
+                    "ratingBreakdown": {
+                        "customerService": 5,
+                        "reliablePrices": 4.437568,
+                        "clearExtraFees": 4.73636,
+                        "easeOfBooking": 4.630904,
+                        "other": 3.629072
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "kore": {
+                    "name": "Korean Air",
+                    "type": "AGENT_TYPE_AIRLINE",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/kore.png",
+                    "feedbackCount": 1584,
+                    "rating": 5,
+                    "ratingBreakdown": {
+                        "customerService": 5,
+                        "reliablePrices": 5,
+                        "clearExtraFees": 5,
+                        "easeOfBooking": 5,
+                        "other": 5
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "lmes": {
+                    "name": "lastminute.com",
+                    "type": "AGENT_TYPE_TRAVEL_AGENT",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/lmes.png",
+                    "feedbackCount": 1668,
+                    "rating": 3.52,
+                    "ratingBreakdown": {
+                        "customerService": 5,
+                        "reliablePrices": 3.257684,
+                        "clearExtraFees": 4.41116,
+                        "easeOfBooking": 3.74166,
+                        "other": 2.652712
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "mtes": {
+                    "name": "Mytrip",
+                    "type": "AGENT_TYPE_TRAVEL_AGENT",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/mtes.png",
+                    "feedbackCount": 5822,
+                    "rating": 3.68,
+                    "ratingBreakdown": {
+                        "customerService": 5,
+                        "reliablePrices": 3.686148,
+                        "clearExtraFees": 4.26016,
+                        "easeOfBooking": 4.194256,
+                        "other": 2.584892
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "opes": {
+                    "name": "Opodo",
+                    "type": "AGENT_TYPE_TRAVEL_AGENT",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/opes.png",
+                    "feedbackCount": 1473,
+                    "rating": 2.93,
+                    "ratingBreakdown": {
+                        "customerService": 5,
+                        "reliablePrices": 2.72686,
+                        "clearExtraFees": 4.109176,
+                        "easeOfBooking": 2.75758,
+                        "other": 2.14322
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "pees": {
+                    "name": "Tripair",
+                    "type": "AGENT_TYPE_TRAVEL_AGENT",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/pees.png",
+                    "feedbackCount": 158,
+                    "rating": 2.86,
+                    "ratingBreakdown": {
+                        "customerService": 5,
+                        "reliablePrices": 2.336004,
+                        "clearExtraFees": 4.08138,
+                        "easeOfBooking": 3.530212,
+                        "other": 1.509252
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "qata": {
+                    "name": "Qatar Airways",
+                    "type": "AGENT_TYPE_AIRLINE",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/qata.png",
+                    "feedbackCount": 203,
+                    "rating": 4.66,
+                    "ratingBreakdown": {
+                        "customerService": 5,
+                        "reliablePrices": 4.766852,
+                        "clearExtraFees": 4.844568,
+                        "easeOfBooking": 4.68914,
+                        "other": 4.352372
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "sing": {
+                    "name": "Singapore Airlines",
+                    "type": "AGENT_TYPE_AIRLINE",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/sing.png",
+                    "feedbackCount": 7514,
+                    "rating": 4.66,
+                    "ratingBreakdown": {
+                        "customerService": 4.99992,
+                        "reliablePrices": 4.724312,
+                        "clearExtraFees": 4.893864,
+                        "easeOfBooking": 4.694244,
+                        "other": 4.335816
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "tfes": {
+                    "name": "Travelfrom.es",
+                    "type": "AGENT_TYPE_TRAVEL_AGENT",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/tfes.png",
+                    "feedbackCount": 1688,
+                    "rating": 2.98,
+                    "ratingBreakdown": {
+                        "customerService": 4.548512,
+                        "reliablePrices": 2.95364,
+                        "clearExtraFees": 3.954972,
+                        "easeOfBooking": 3.730112,
+                        "other": 1.72322
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "turk": {
+                    "name": "Turkish Airlines",
+                    "type": "AGENT_TYPE_AIRLINE",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/turk.png",
+                    "feedbackCount": 180,
+                    "rating": 4.27,
+                    "ratingBreakdown": {
+                        "customerService": 5,
+                        "reliablePrices": 4.312396,
+                        "clearExtraFees": 4.894216,
+                        "easeOfBooking": 4.788428,
+                        "other": 3.095868
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "txes": {
+                    "name": "Tix.es",
+                    "type": "AGENT_TYPE_TRAVEL_AGENT",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/txes.png",
+                    "feedbackCount": 428,
+                    "rating": 2.95,
+                    "ratingBreakdown": {
+                        "customerService": 5,
+                        "reliablePrices": 2.666824,
+                        "clearExtraFees": 3.99012,
+                        "easeOfBooking": 3.60706,
+                        "other": 1.552476
+                    },
+                    "isOptimisedForMobile": true
+                },
+                "veci": {
+                    "name": "Viajes El Corte Ingles",
+                    "type": "AGENT_TYPE_TRAVEL_AGENT",
+                    "imageUrl": "https://logos.skyscnr.com/images/websites/veci.png",
+                    "feedbackCount": 0,
+                    "rating": 0,
+                    "ratingBreakdown": null,
+                    "isOptimisedForMobile": false
+                }
+            },
+            "alliances": {
+                "-31998": {
+                    "name": "SkyTeam"
+                },
+                "-31999": {
+                    "name": "Star Alliance"
+                },
+                "-32000": {
+                    "name": "OneWorld"
+                }
+            }
+        },
+        "stats": {
+            "itineraries": {
+                "minDuration": 1100,
+                "maxDuration": 1625,
+                "total": {
+                    "count": 10,
+                    "minPrice": {
+                        "amount": "564000",
+                        "unit": "PRICE_UNIT_MILLI",
+                        "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                    }
+                },
+                "stops": {
+                    "direct": {
+                        "total": {
+                            "count": 0,
+                            "minPrice": {
+                                "amount": "",
+                                "unit": "PRICE_UNIT_UNSPECIFIED",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        },
+                        "ticketTypes": {
+                            "singleTicket": {
+                                "count": 0,
+                                "minPrice": {
+                                    "amount": "",
+                                    "unit": "PRICE_UNIT_UNSPECIFIED",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                }
+                            },
+                            "multiTicketNonNpt": {
+                                "count": 0,
+                                "minPrice": {
+                                    "amount": "",
+                                    "unit": "PRICE_UNIT_UNSPECIFIED",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                }
+                            },
+                            "multiTicketNpt": {
+                                "count": 0,
+                                "minPrice": {
+                                    "amount": "",
+                                    "unit": "PRICE_UNIT_UNSPECIFIED",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                }
+                            }
+                        }
+                    },
+                    "oneStop": {
+                        "total": {
+                            "count": 4,
+                            "minPrice": {
+                                "amount": "664010",
+                                "unit": "PRICE_UNIT_MILLI",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        },
+                        "ticketTypes": {
+                            "singleTicket": {
+                                "count": 4,
+                                "minPrice": {
+                                    "amount": "664010",
+                                    "unit": "PRICE_UNIT_MILLI",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                }
+                            },
+                            "multiTicketNonNpt": {
+                                "count": 0,
+                                "minPrice": {
+                                    "amount": "",
+                                    "unit": "PRICE_UNIT_UNSPECIFIED",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                }
+                            },
+                            "multiTicketNpt": {
+                                "count": 0,
+                                "minPrice": {
+                                    "amount": "",
+                                    "unit": "PRICE_UNIT_UNSPECIFIED",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                }
+                            }
+                        }
+                    },
+                    "twoPlusStops": {
+                        "total": {
+                            "count": 6,
+                            "minPrice": {
+                                "amount": "564000",
+                                "unit": "PRICE_UNIT_MILLI",
+                                "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                            }
+                        },
+                        "ticketTypes": {
+                            "singleTicket": {
+                                "count": 6,
+                                "minPrice": {
+                                    "amount": "564000",
+                                    "unit": "PRICE_UNIT_MILLI",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                }
+                            },
+                            "multiTicketNonNpt": {
+                                "count": 0,
+                                "minPrice": {
+                                    "amount": "",
+                                    "unit": "PRICE_UNIT_UNSPECIFIED",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                }
+                            },
+                            "multiTicketNpt": {
+                                "count": 0,
+                                "minPrice": {
+                                    "amount": "",
+                                    "unit": "PRICE_UNIT_UNSPECIFIED",
+                                    "updateStatus": "PRICE_UPDATE_STATUS_UNSPECIFIED"
+                                }
+                            }
+                        }
+                    }
+                },
+                "hasChangeAirportTransfer": false
+            }
+        },
+        "sortingOptions": {
+            "best": [
+                {
+                    "score": 0.668479,
+                    "itineraryId": "9772-2301252025--32348-1-11109-2301262220"
+                },
+                {
+                    "score": 0.625888,
+                    "itineraryId": "9772-2301251500--31939-1-11109-2301261730"
+                },
+                {
+                    "score": 0.62219,
+                    "itineraryId": "9772-2301251510--32348-1-11109-2301261630"
+                },
+                {
+                    "score": 0.582487,
+                    "itineraryId": "9772-2301251500--32080-2-11109-2301261825"
+                },
+                {
+                    "score": 0.531589,
+                    "itineraryId": "9772-2301251420--31915,-32090,-31876-3-11109-2301262050"
+                },
+                {
+                    "score": 0.531018,
+                    "itineraryId": "9772-2301251500--32222-1-11109-2301261730"
+                },
+                {
+                    "score": 0.529299,
+                    "itineraryId": "9772-2301251500--31939,-32080-2-11109-2301261825"
+                },
+                {
+                    "score": 0.522028,
+                    "itineraryId": "9772-2301251015--32080-3-11109-2301261825"
+                },
+                {
+                    "score": 0.502555,
+                    "itineraryId": "9772-2301250705--31685,-32444-2-11109-2301261440"
+                },
+                {
+                    "score": 0.499727,
+                    "itineraryId": "9772-2301251030--31685,-31939,-32211-3-11109-2301262035"
+                }
+            ],
+            "cheapest": [
+                {
+                    "score": 1,
+                    "itineraryId": "9772-2301251030--31685,-31939,-32211-3-11109-2301262035"
+                },
+                {
+                    "score": 0.8095894,
+                    "itineraryId": "9772-2301251420--31915,-32090,-31876-3-11109-2301262050"
+                },
+                {
+                    "score": 0.7817047,
+                    "itineraryId": "9772-2301250705--31685,-32444-2-11109-2301261440"
+                },
+                {
+                    "score": 0.696024,
+                    "itineraryId": "9772-2301251015--32080-3-11109-2301261825"
+                },
+                {
+                    "score": 0.5946581,
+                    "itineraryId": "9772-2301252025--32348-1-11109-2301262220"
+                },
+                {
+                    "score": 0.4975074,
+                    "itineraryId": "9772-2301251500--31939-1-11109-2301261730"
+                },
+                {
+                    "score": 0.4245532,
+                    "itineraryId": "9772-2301251500--32080-2-11109-2301261825"
+                },
+                {
+                    "score": 0.3024359,
+                    "itineraryId": "9772-2301251510--32348-1-11109-2301261630"
+                },
+                {
+                    "score": 0.1367081,
+                    "itineraryId": "9772-2301251500--31939,-32080-2-11109-2301261825"
+                },
+                {
+                    "score": 0,
+                    "itineraryId": "9772-2301251500--32222-1-11109-2301261730"
+                }
+            ],
+            "fastest": [
+                {
+                    "score": 1,
+                    "itineraryId": "9772-2301251510--32348-1-11109-2301261630"
+                },
+                {
+                    "score": 0.9333333,
+                    "itineraryId": "9772-2301252025--32348-1-11109-2301262220"
+                },
+                {
+                    "score": 0.8666667,
+                    "itineraryId": "9772-2301251500--32222-1-11109-2301261730"
+                },
+                {
+                    "score": 0.8666667,
+                    "itineraryId": "9772-2301251500--31939-1-11109-2301261730"
+                },
+                {
+                    "score": 0.7619048,
+                    "itineraryId": "9772-2301251500--32080-2-11109-2301261825"
+                },
+                {
+                    "score": 0.7619048,
+                    "itineraryId": "9772-2301251500--31939,-32080-2-11109-2301261825"
+                },
+                {
+                    "score": 0.4095238,
+                    "itineraryId": "9772-2301251420--31915,-32090,-31876-3-11109-2301262050"
+                },
+                {
+                    "score": 0.2857143,
+                    "itineraryId": "9772-2301250705--31685,-32444-2-11109-2301261440"
+                },
+                {
+                    "score": 0.2190476,
+                    "itineraryId": "9772-2301251015--32080-3-11109-2301261825"
+                },
+                {
+                    "score": 0,
+                    "itineraryId": "9772-2301251030--31685,-31939,-32211-3-11109-2301262035"
+                }
+            ]
+        }
+    }
+}
