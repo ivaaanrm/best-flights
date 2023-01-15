@@ -5,12 +5,14 @@ from dateutil.rrule import rrule, DAILY
 
 from FlightSearch import FlightSearch
 
-DELAY = 3
-DELTA_DAYS = 3
+DELAY = 4
+DELTA_DAYS = 4
 
 travel_plans = [
-    # {'origins': ['BCN', 'MAD'], 'destinations': ['DPS', 'KUL'], 'startDate': '10/07/2023', 'returnDate': '20/08/2023'},
-    {'origins': ['BCN', 'MAD'], 'destinations': ['MNL'], 'startDate': '10/07/2023', 'returnDate': '20/08/2023'},
+    # {'origins': ['BCN', 'MAD'], 'destinations': ['DPS', 'KUL'], 'startDate': '20/07/2023', 'returnDate': '30/08/2023'},
+    # {'origins': ['BCN', 'MAD'], 'destinations': ['MNL'], 'startDate': '10/07/2023', 'returnDate': '20/08/2023'},
+    {'origins': ['BKK'], 'destinations': ['MNL', 'DPS'], 'startDate': '15/07/2023', 'returnDate': '30/08/2023'},
+    {'origins': ['KUL'], 'destinations': ['MNL', 'DPS'], 'startDate': '15/07/2023', 'returnDate': '30/08/2023'},
     # {'origins': ['MNL'], 'destinations': ['DPS', 'KEF', 'CPH'], 'startDate': '01/07/2023', 'returnDate': '12/07/2023'},
 ]
 

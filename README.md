@@ -15,3 +15,8 @@ Para ejecutar el programa:
 python main.py 
 ```
 
+Ejecutar la web:
+```sh
+streamlit run web_flights.py
+```
+
